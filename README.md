@@ -38,16 +38,9 @@ object **Vinicius** {
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ViniciusCharleaux&show_icons=true&theme=dracula&line_height=27" alt="**Vinicius Charleaux** github stats"/>
 </a>
 
-[website]: https://codedev.ga/
-[youtube]: https://www.youtube.com/user/SEUYOUTUBE/
-[instagram]: https://www.instagram.com/SEUINSTAGRAM/
-[linkedin]: https://www.linkedin.com/in/viniciuscharelaux/
+[linkedin]: https://www.linkedin.com/in/vinicius-carneiro-charleaux/
 <br>
 
 #### Rede Sociais!
 
-🏡 [website][website] **|** 
-🐦 [twitter][twitter] **|** 
-📺 [youtube][youtube] **|** 
-📷 [instagram][instagram] **|** 
-👔 [linkedin][linkedin]
+👔 [linkedin][linkedin] **|** 

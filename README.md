@@ -1,6 +1,6 @@
 ### Oie devs 👋
 
-Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
+Amo fazer parte desta área maravilhosa da programação
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 

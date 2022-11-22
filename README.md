@@ -9,7 +9,7 @@ Amo fazer parte desta área maravilhosa da programação
 ```kotlin
 object **Vinicius** {
  val name = "Vinicius Carneiro Charleaux"
- val acknowledgements = "Frontend web developer and Data Scientist "
+ val acknowledgements = "FullStack web developer and Data Scientist Student"
  
  val primarySkillset = "ALGUMAS HABILIDADES"
  val languages = listOf("Java", "Python", "JavaScript", "React") 

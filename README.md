@@ -1,4 +1,4 @@
-### Oie devs 👋
+### Olá devs 👋
 
 Amo fazer parte desta área maravilhosa da programação
 
@@ -6,13 +6,13 @@ Amo fazer parte desta área maravilhosa da programação
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
-```kotlin
-object **Vinicius** {
- val name = "Vinicius Carneiro Charleaux"
- val acknowledgements = "FullStack web developer and Data Scientist Student"
- 
- val primarySkillset = "ALGUMAS HABILIDADES"
- val languages = listOf("Java", "Python", "JavaScript", "React") 
+```javascript
+const **Vinicius** = {
+ name: "Vinicius Carneiro Charleaux",
+ acknowledgements: "FullStack web developer and Data Scientist Student",
+ primarySkillset: "JavaScript, Java",
+ languages: ["Java", "JavaScript", "TypeScript", "C", "Python"],
+ stack: ["ReactJS", "NextJS", "TypeScript"]
 }
 ```
 

@@ -12,7 +12,7 @@ const vinicius = {
  acknowledgements: "FullStack web developer and Data Scientist Student",
  primarySkillset: "JavaScript, Java",
  languages: ["Java", "JavaScript", "TypeScript", "C", "Python"],
- stack: ["ReactJS", "NextJS", "TypeScript"]
+ stack: ["ReactJS", "NextJS", "TypeScript, NodeJS"]
 }
 ```
 
